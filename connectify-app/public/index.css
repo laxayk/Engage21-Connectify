@@ -1,0 +1,27 @@
+html{
+    background-color: #130f40;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100vw;
+}
+.navbar{
+    margin-top: 0;
+    width: 100vw;
+    height: 100px;
+    background-color:#dff9fb;
+    display: flex;
+    flex-direction: column;
+}
+.navbar .elements{
+    color: #130f40;
+}
